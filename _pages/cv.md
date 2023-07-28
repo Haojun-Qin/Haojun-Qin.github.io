@@ -11,36 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in University of Science and Technology of China, 2024 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2022 - May 2023: National Training Program of Innovation and Entrepreneurship for Undergraduates
+  * University of Science and Technology of China 
+  * Machine learning methods for partial differential equations
+  * Supervisor: Professor Jingrun Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2023 - August 2023: Summer Research Program
+  * The Hong Kong University of Science and Technology
+  * Adaptive mesh method on machine learning for PDEs
+  * Supervisor: Professor Xiaoping Wang
   
-Skills
+Interest
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Numerical method for Partial Differential Equations
+* Partial Differential Equations of Physics and Engineering problem
+* Machine Learning
   
 Talks
 ======
@@ -53,7 +42,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Honors
 ======
-* Currently signed in to 43 different slack teams
+*2021: 
+  *Silver Prize, Outstanding Student Scholarship (Top 10%)
+  *Second prize, the National Mathematics Competition for College Students
+*2022: 
+  *Wang Laoji Student Scholarship (Top 4)
+  *Hua Loo-Keng Student Scholarship
+*2023: 
+  *Second prize, ”Jiuzhang Cup” Mathematics Competition.
+  *Excellent Award, S.-T.Yau College Student Mathematics Contest.

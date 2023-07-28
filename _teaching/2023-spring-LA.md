@@ -26,6 +26,15 @@ Number of students enrolled
 ======
 * 120
 
+Slides
+======
+* [Exercise Class 2nd](https://haojun-qin.github.io/files/LA2023/2nd_Exercise_Class.pdf)
+* [Exercise Class 6th](https://haojun-qin.github.io/files/LA2023/6th_Exercise_Class.pdf)
+* [Exercise Class 7th](https://haojun-qin.github.io/files/LA2023/7th_Exercise_Class.pdf)
+* [Solution of mid-term test](https://haojun-qin.github.io/files/LA2023/Solution_mid.pdf)
+* [A proof of a rank equation](https://haojun-qin.github.io/files/LA2023/rank.pdf)
+
+
 Link to course reviews
 ======
 * [https://icourse.club/course/18268/](https://icourse.club/course/18268/)

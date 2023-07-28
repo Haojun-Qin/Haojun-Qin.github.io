@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Qin Haojun (秦昊隽)'s HomePage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

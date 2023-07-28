@@ -10,8 +10,6 @@ redirect_from:
 
 Hello！
 
-你知道吗, 我有一个朋友叫罗乔曦, 他玩CSGO的时候, 30发子弹才能打死一个人.
+I’m Qin Haojun, a student in Computational Mathematics at the School of Mathematical Sciences, University of Science and Technology of China.
 
-Do you know that I have a friend named Luo Qiaoxi, who needs 30 bullets to kill a person when he plays CSGO?
-
-Savez-vous que j'ai un ami nommé Luo Qiaoxi, qui a besoin de 30 balles pour tuer une personne lorsqu'il joue à CSGO?
+Currectly I am interested in Numerical methods for PDEs and PDEs of Physics and Engineering problem. And I have also worked on machine learning algorithms for PDEs called the Random Feature Method under the guidance of Professor Chen Jingrun and Professor Wang Xiaoping.

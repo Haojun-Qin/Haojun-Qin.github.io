@@ -28,12 +28,12 @@ Number of students enrolled
 
 Link to course reviews
 ======
-* (https://icourse.club/course/18268/)
+* [https://icourse.club/course/18268/](https://icourse.club/course/18268/)
 * Some interesting reviews:
-  * (https://icourse.club/course/18268/#review-67641)
-  * (https://icourse.club/course/18268/#review-67648)
-  * (https://icourse.club/course/18268/#review-67666)
-  * https://icourse.club/course/18268/#review-67484
-  * https://icourse.club/course/18268/#review-63884
-  * https://icourse.club/course/18268/#review-67908
-  * https://icourse.club/course/18268/#review-63067
+  * [https://icourse.club/course/18268/#review-67641](https://icourse.club/course/18268/#review-67641)
+  * [https://icourse.club/course/18268/#review-67648](https://icourse.club/course/18268/#review-67648)
+  * [https://icourse.club/course/18268/#review-67666](https://icourse.club/course/18268/#review-67666)
+  * [https://icourse.club/course/18268/#review-67484](https://icourse.club/course/18268/#review-67484)
+  * [https://icourse.club/course/18268/#review-63884](https://icourse.club/course/18268/#review-63884)
+  * [https://icourse.club/course/18268/#review-67908](https://icourse.club/course/18268/#review-67908)
+  * [https://icourse.club/course/18268/#review-63067](https://icourse.club/course/18268/#review-63067)

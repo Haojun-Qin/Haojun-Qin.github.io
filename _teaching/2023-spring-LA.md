@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-LA
 venue: "University of Science and Technology of China"
-date: 2023-spring
+date: 2023-03-01
 location: "Hefei, Anhui Province, China"
 ---
 

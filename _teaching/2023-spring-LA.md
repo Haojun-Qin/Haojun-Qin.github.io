@@ -10,25 +10,25 @@ location: "Hefei, Anhui Province, China"
 
 Course
 ======
-Linear Algebra B1
+* Linear Algebra B1
 
 Lecturer
 ======
-Professor Liu Yong, University of Science and Technology of China
+* Professor Liu Yong, University of Science and Technology of China
 
 Teaching Assistants
 ======
-Qin Haojun (秦昊隽): https://haojun-qin.github.io/
-Wang Yixiao (王怿骁): http://home.ustc.edu.cn/~wyx_mail/
-Fu Lehao (付乐豪)
+* Qin Haojun (秦昊隽): https://haojun-qin.github.io/
+* Wang Yixiao (王怿骁): http://home.ustc.edu.cn/~wyx_mail/
+* Fu Lehao (付乐豪)
 
 Number of students enrolled
 ======
-120
+* 120
 
 Link to course reviews
 ======
-https://icourse.club/course/18268/
+* https://icourse.club/course/18268/
 * Some interesting reviews:
   * https://icourse.club/course/18268/#review-67641
   * https://icourse.club/course/18268/#review-67648

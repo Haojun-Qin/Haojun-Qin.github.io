@@ -18,8 +18,8 @@ Lecturer
 
 Teaching Assistants
 ======
-* Qin Haojun (秦昊隽): https://haojun-qin.github.io/
-* Wang Yixiao (王怿骁): http://home.ustc.edu.cn/~wyx_mail/
+* [Qin Haojun (秦昊隽)](https://haojun-qin.github.io/)
+* [Wang Yixiao (王怿骁)](http://home.ustc.edu.cn/~wyx_mail/)
 * Fu Lehao (付乐豪)
 
 Number of students enrolled
@@ -28,11 +28,11 @@ Number of students enrolled
 
 Link to course reviews
 ======
-* https://icourse.club/course/18268/
+* (https://icourse.club/course/18268/)
 * Some interesting reviews:
-  * https://icourse.club/course/18268/#review-67641
-  * https://icourse.club/course/18268/#review-67648
-  * https://icourse.club/course/18268/#review-67666
+  * (https://icourse.club/course/18268/#review-67641)
+  * (https://icourse.club/course/18268/#review-67648)
+  * (https://icourse.club/course/18268/#review-67666)
   * https://icourse.club/course/18268/#review-67484
   * https://icourse.club/course/18268/#review-63884
   * https://icourse.club/course/18268/#review-67908

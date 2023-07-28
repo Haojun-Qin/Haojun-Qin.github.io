@@ -45,12 +45,12 @@ Teaching
 
 Honors
 ======
-*2021: 
-  *Silver Prize, Outstanding Student Scholarship (Top 10%)
-  *Second prize, the National Mathematics Competition for College Students
-*2022: 
-  *Wang Laoji Student Scholarship (Top 4)
-  *Hua Loo-Keng Student Scholarship
-*2023: 
-  *Second prize, ”Jiuzhang Cup” Mathematics Competition.
-  *Excellent Award, S.-T.Yau College Student Mathematics Contest.
+* 2021: 
+  * Silver Prize, Outstanding Student Scholarship (Top 10%)
+  * Second prize, the National Mathematics Competition for College Students
+* 2022: 
+  * Wang Laoji Student Scholarship (Top 4)
+  * Hua Loo-Keng Student Scholarship
+* 2023: 
+  * Second prize, ”Jiuzhang Cup” Mathematics Competition.
+  * Excellent Award, S.-T.Yau College Student Mathematics Contest.
